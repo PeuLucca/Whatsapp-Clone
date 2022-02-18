@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pedro/Desktop/Android/WhatsApp/app/src/main/res/drawable/bg_balao.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Pedro/Desktop/Android/WhatsApp/app/src/main/res/layout/activity_cadastro.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/Android/WhatsApp/app/src/main/res/layout/activity_cadastro_grupo.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/Android/WhatsApp/app/src/main/res/layout/activity_grupo.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/Android/WhatsApp/app/src/main/res/layout/adapter_mensagem_destinatario.xml" value="0.4" />
+        <entry key="..\:/Users/Pedro/Desktop/Android/WhatsApp/app/src/main/res/layout/adapter_mensagem_rementente.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/Android/WhatsApp/app/src/main/res/layout/content_cadastro_grupo.xml" value="0.264" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/drawable/bg_balao.xml" value="0.26461538461538464" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/drawable/bg_balao2.xml" value="0.26461538461538464" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/drawable/fundo_mensagem_chat.xml" value="0.26461538461538464" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/drawable/ic_enviar_branco_24.xml" value="0.26461538461538464" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/activity_cadastro.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/activity_cadastro_grupo.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/activity_chat.xml" value="0.264" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/activity_configuracoes.xml" value="0.264" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/activity_grupo.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/adapter_contatos.xml" value="0.264" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/adapter_grupo_selecionado.xml" value="0.536" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/adapter_mensagem_destinatario.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/adapter_mensagem_rementente.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/content_cadastro.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/content_cadastro_grupo.xml" value="0.264" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/content_chat.xml" value="0.4" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/content_grupo.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/divisor.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/fragment_contatos.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/fragment_conversas.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/fragment_first.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/layout/toolbar.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Pedro/Desktop/WhatsApp/app/src/main/res/menu/menu_main.xml" value="0.2526041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
